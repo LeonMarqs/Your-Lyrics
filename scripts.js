@@ -23,11 +23,9 @@ async function doSubmit() {
       lyricsArea.innerHTML = data.lyrics;
     } else {
       lyricsArea.innerHTML = data.error;
-    }
+    } 
 
-  } catch (err) {
+  } catch (err) { 
     console.log(err);
   }
-
 }
-
