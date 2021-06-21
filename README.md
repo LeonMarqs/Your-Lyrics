@@ -3,7 +3,7 @@
   <img src="https://imgur.com/oFfiyTT.png" width="600">
 </p>
 
-# Tools used
+# Techs
 
 * Visual Studio Code
 * Javascript
